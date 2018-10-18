@@ -16,10 +16,11 @@
 - [Mahriham Musa](https://github.com/mhariham)
 - [Tony Cameron](https://github.com/TonyRCameron)
 - [Yangsoo Song](https://github.com/yangsoosong)
-- [Satyam Uttam]
+- [Satyam Uttam](https://github.com/vivekshettygopal)
 - [Sanya Gupta] (https://github.com/sanya2701)
 - [Briana Baker](https://github.com/brianabaker)
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
+-[vivek gopalshetty]
 - [Anupama Garani](https://github.com/anusky95)
 - [Lee T](https://github.com/leeturnbill)
 - [Calvin Golas](https://github.com/CalvinGolas)
